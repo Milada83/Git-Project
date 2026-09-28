@@ -3,6 +3,7 @@ this is my second note
 no important (master)
 very important (conflict demo)
 newsss line
+old line
 
 
 
